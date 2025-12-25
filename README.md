@@ -1,1 +1,2 @@
+#Facial-Recognition using OpenCV
 Facial Recognition Using OpenCV is an intelligent computer vision application developed using Python and the OpenCV library. It enables real-time detection and recognition of human faces through a camera or image input. The system captures facial features, compares them with stored data, and accurately identifies individuals. This project is useful for applications such as attendance systems, security authentication, and access control, reducing manual effort and improving accuracy.
